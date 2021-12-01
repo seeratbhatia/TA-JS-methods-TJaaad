@@ -18,6 +18,7 @@
     - Returns a new array where 2 is added to each element
     - While doing so use the funciton addTwo
 */
+let num1
 
 /*
   Create a function named addThreeToArray which accepts:
