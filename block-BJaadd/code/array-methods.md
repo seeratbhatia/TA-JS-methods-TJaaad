@@ -54,3 +54,7 @@ Example:
 20. `reduce`
 21. `slice`
 22. `some`
+
+
+
+done
