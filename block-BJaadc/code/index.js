@@ -43,3 +43,6 @@ let message = 'If you are still thinking the answer is no!';
 // Split all the words in message (split by " " space) and store it in a variable messageArray
 
 // Log all the words of messageArray
+
+done
+
