@@ -93,6 +93,9 @@ Store the output in a new variable
 20. Make the quote of length 30 and put ... at the end. (use slice)
 */
 
+done
+
+
 /*
 21. Find out does quote, from, to starts with "A"
 */
