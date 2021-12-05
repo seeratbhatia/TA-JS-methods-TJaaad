@@ -130,3 +130,6 @@ let pipeline2 = [
 ];
 
 // Find the output using pipeline2 the initial value if 8
+
+
+c
